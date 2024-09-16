@@ -14,9 +14,6 @@ sites:
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
-   - name: Azusa
-    url: $AZUSA
-    maxResponseTime: 1000
   - name: CarPT
     url: $CARPT
     maxResponseTime: 1000

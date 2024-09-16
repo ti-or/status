@@ -17,6 +17,37 @@ sites:
   - name: CarPT
     url: $CARPT
     maxResponseTime: 1000
+  - name: FSM
+    url: $FSM
+    maxResponseTime: 1000
+  - name: GPW
+    url: $GPW
+    maxResponseTime: 1000
+  - name: HDArea
+    url: $HDAREA
+    maxResponseTime: 1000
+  - name: HDATMOS
+    url: $HDATMOS
+    maxResponseTime: 1000
+  - name: HDChina
+    url: $HDCHINA
+    maxResponseTime: 1000
+  - name: HDCity
+    url: $HDCHINA
+    maxResponseTime: 1000
+  - name: HD Dolby
+    url: $HDDOLBY
+    maxResponseTime: 1000
+  - name: HDFans
+    url: $HDFANS
+    maxResponseTime: 1000
+  - name: HDHome
+    url: $HDHOME
+    icon: $HDHOME/favicon.ico
+    maxResponseTime: 1000
+  - name: HDPT
+    url: $HDPT
+    maxResponseTime: 1000
   - name: M-Team
     url: $MTEAM
     maxResponseTime: 1000

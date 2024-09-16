@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: 1PTBar
-    url: $NPTBAR
+    url: $N1PTBAR
     maxResponseTime: 1000
   - name: 52PT
     url: $N52PT
@@ -14,11 +14,23 @@ sites:
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
+   - name: Azusa
+    url: $AZUSA
+    maxResponseTime: 1000
   - name: CarPT
     url: $CARPT
     maxResponseTime: 1000
+  - name: M-Team
+    url: $MTEAM
+    maxResponseTime: 1000
   - name: SSD
     url: $SSD
+    maxResponseTime: 1000
+  - name: ZHUQUE
+    url: $ZHUQUE
+    maxResponseTime: 1000
+  - name: ZmPT
+    url: $ZMPT
     maxResponseTime: 1000
 
 status-website:

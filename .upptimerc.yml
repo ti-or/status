@@ -33,7 +33,7 @@ sites:
     url: $HDCHINA
     maxResponseTime: 1000
   - name: HDCity
-    url: $HDCHINA
+    url: $HDCITY
     maxResponseTime: 1000
   - name: HD Dolby
     url: $HDDOLBY

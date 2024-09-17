@@ -5,17 +5,32 @@ repo: status # The name of this repository
 sites:
   - name: 1PTBar
     url: $N1PTBAR
+    icon: 1ptba.ico
     maxResponseTime: 1000
   - name: 52PT
     url: $N52PT
     maxResponseTime: 1000
   - name: Audiences
     url: $AUDIENCES
+    icon: audiences.ico
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
   - name: CarPT
     url: $CARPT
+    maxResponseTime: 1000
+  - name: CyanBug
+    url: $CYANBUG
+    maxResponseTime: 1000
+  - name: DAJIAO
+    url: $DAJIAO
+    maxResponseTime: 1000
+  - name: DIC
+    url: $DIC
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/dic.ico
+    maxResponseTime: 1000
+  - name: DiscFan
+    url: $DISCFAN
     maxResponseTime: 1000
   - name: FSM
     url: $FSM
@@ -23,37 +38,49 @@ sites:
   - name: GPW
     url: $GPW
     maxResponseTime: 1000
-  - name: HDArea
-    url: $HDAREA
-    maxResponseTime: 1000
-  - name: HDATMOS
-    url: $HDATMOS
-    maxResponseTime: 1000
-  - name: HDChina
-    url: $HDCHINA
-    maxResponseTime: 1000
-  - name: HDCity
-    url: $HDCITY
+  - name: HaresClub
+    url: $HARESCLUB
     maxResponseTime: 1000
   - name: HD Dolby
     url: $HDDOLBY
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
-  - name: HDFans
-    url: $HDFANS
-    maxResponseTime: 1000
   - name: HDHome
     url: $HDHOME
-    icon: $HDHOME/favicon.ico
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
+  - name: HDCity
+    url: $HDCITY
+    maxResponseTime: 1000
+  - name: HDATMOS
+    url: $HDATMOS
+    maxResponseTime: 1000
+  - name: HDFans
+    url: $HDFANS
+    maxResponseTime: 1000
   - name: HDPT
     url: $HDPT
     maxResponseTime: 1000
+  - name: HDSky
+    url: $HDSKY
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/hdsky.ico
+    maxResponseTime: 1000
   - name: M-Team
     url: $MTEAM
+    maxResponseTime: 1000
+  - name: OpenCD
+    url: $OPENCD
+    maxResponseTime: 1000
+  - name: pttime
+    url: $PTTIME
+    maxResponseTime: 1000
+  - name: PTChina
+    url: $PTCHINA
+    maxResponseTime: 1000
+  - name: PTer
+    url: $PTER
     maxResponseTime: 1000
   - name: SSD
     url: $SSD
@@ -63,6 +90,9 @@ sites:
     maxResponseTime: 1000
   - name: ZmPT
     url: $ZMPT
+    maxResponseTime: 1000
+  - name: crabpt
+    url: $CRABPT
     maxResponseTime: 1000
 
 status-website:

@@ -1,7 +1,7 @@
 url: $SSD
-status: up
+status: degraded
 code: 200
-responseTime: 568
-lastUpdated: 2024-09-16T23:22:55.107Z
+responseTime: 2521
+lastUpdated: 2024-09-17T08:50:40.419Z
 startTime: 2024-09-16T12:32:34.879Z
 generator: Upptime <https://github.com/upptime/upptime>

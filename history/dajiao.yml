@@ -1,7 +1,7 @@
 url: $DAJIAO
-status: up
+status: degraded
 code: 200
-responseTime: 812
-lastUpdated: 2024-09-17T23:31:13.555Z
+responseTime: 1239
+lastUpdated: 2024-09-18T08:33:40.180Z
 startTime: 2024-09-17T16:41:49.864Z
 generator: Upptime <https://github.com/upptime/upptime>

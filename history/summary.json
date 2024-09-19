@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/1ptba.ico",
     "slug": "1-pt-bar",
     "status": "down",
-    "uptime": "77.31%",
-    "uptimeDay": "25.50%",
-    "uptimeWeek": "77.31%",
-    "uptimeMonth": "77.31%",
-    "uptimeYear": "77.31%",
+    "uptime": "77.13%",
+    "uptimeDay": "24.73%",
+    "uptimeWeek": "77.13%",
+    "uptimeMonth": "77.13%",
+    "uptimeYear": "77.13%",
     "time": 308,
     "timeDay": 142,
     "timeWeek": 308,
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-09-19": 1073,
+      "2024-09-19": 1084,
       "2024-09-16": 16
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 1642,
     "timeYear": 1642,
     "dailyMinutesDown": {
-      "2024-09-19": 652
+      "2024-09-19": 663
     }
   },
   {
@@ -82,11 +82,11 @@
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/bts.ico",
     "slug": "btschool",
     "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
+    "uptime": "96.60%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "96.60%",
     "time": 68,
     "timeDay": 68,
     "timeWeek": 68,
@@ -101,19 +101,19 @@
     "url": "$CARPT",
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/carpt.ico",
     "slug": "car-pt",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 236,
-    "timeDay": 214,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
+    "time": 242,
+    "timeDay": 222,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-09-19": 2,
+      "2024-09-19": 11,
       "2024-09-17": 27
     }
   },
@@ -123,11 +123,11 @@
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/chdbits.ico",
     "slug": "chd-bits",
     "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
+    "uptime": "96.60%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "96.60%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
@@ -161,18 +161,18 @@
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/cyanbug.ico",
     "slug": "cyan-bug",
     "status": "up",
-    "uptime": "80.02%",
-    "uptimeDay": "56.84%",
-    "uptimeWeek": "80.02%",
-    "uptimeMonth": "80.02%",
-    "uptimeYear": "80.02%",
+    "uptime": "79.74%",
+    "uptimeDay": "56.07%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "79.74%",
+    "uptimeYear": "79.74%",
     "time": 779,
     "timeDay": 524,
     "timeWeek": 779,
     "timeMonth": 779,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2024-09-19": 622
+      "2024-09-19": 633
     }
   },
   {
@@ -318,7 +318,7 @@
     "timeMonth": 796,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2024-09-19": 652
+      "2024-09-19": 663
     }
   },
   {
@@ -401,18 +401,18 @@
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/kylin.ico",
     "slug": "hd-kylin",
     "status": "up",
-    "uptime": "3.48%",
-    "uptimeDay": "3.48%",
-    "uptimeWeek": "3.48%",
-    "uptimeMonth": "3.48%",
-    "uptimeYear": "3.48%",
+    "uptime": "3.42%",
+    "uptimeDay": "3.42%",
+    "uptimeWeek": "3.42%",
+    "uptimeMonth": "3.42%",
+    "uptimeYear": "3.42%",
     "time": 868,
     "timeDay": 868,
     "timeWeek": 868,
     "timeMonth": 868,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2024-09-19": 629
+      "2024-09-19": 640
     }
   },
   {
@@ -506,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-19": 1233,
+      "2024-09-19": 1244,
       "2024-09-18": 1440,
       "2024-09-17": 436
     }
@@ -535,11 +535,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pttime",
     "status": "up",
-    "uptime": "20.90%",
-    "uptimeDay": "45.14%",
-    "uptimeWeek": "20.90%",
-    "uptimeMonth": "20.90%",
-    "uptimeYear": "20.90%",
+    "uptime": "21.18%",
+    "uptimeDay": "45.91%",
+    "uptimeWeek": "21.18%",
+    "uptimeMonth": "21.18%",
+    "uptimeYear": "21.18%",
     "time": 185,
     "timeDay": 190,
     "timeWeek": 185,
@@ -557,11 +557,11 @@
     "icon": "https://raw.githubusercontent.com/ti-or/status/master/assets/rousi.ico",
     "slug": "rousi",
     "status": "up",
-    "uptime": "89.88%",
-    "uptimeDay": "89.88%",
-    "uptimeWeek": "89.88%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "89.88%",
+    "uptime": "90.05%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "90.05%",
+    "uptimeMonth": "90.05%",
+    "uptimeYear": "90.05%",
     "time": 271,
     "timeDay": 271,
     "timeWeek": 271,

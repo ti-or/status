@@ -1,7 +1,7 @@
 url: $PTTIME
-status: down
+status: up
 code: 403
-responseTime: 242
-lastUpdated: 2024-09-18T23:27:32.675Z
+responseTime: 228
+lastUpdated: 2024-09-19T09:42:37.994Z
 startTime: 2024-09-17T16:42:01.592Z
 generator: Upptime <https://github.com/upptime/upptime>

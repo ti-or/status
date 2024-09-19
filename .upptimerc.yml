@@ -5,25 +5,34 @@ repo: status # The name of this repository
 sites:
   - name: 1PTBar
     url: $N1PTBAR
-    icon: 1ptba.ico
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/1ptba.ico
     maxResponseTime: 1000
   - name: 52PT
     url: $N52PT
     maxResponseTime: 1000
+  - name: AGSV
+    url: $AGSV
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/agsv.ico
+    maxResponseTime: 1000
   - name: Audiences
     url: $AUDIENCES
-    icon: audiences.ico
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/audiences.ico
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
+  - name: BTSCHOOL
+    url: $BTSCHOOL
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/bts.ico
+    maxResponseTime: 1000
   - name: CarPT
     url: $CARPT
     maxResponseTime: 1000
+  - name: CHDBits
+    url: $CHDBITS
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/chdbits.ico
+    maxResponseTime: 1000
   - name: CyanBug
     url: $CYANBUG
-    maxResponseTime: 1000
-  - name: DAJIAO
-    url: $DAJIAO
     maxResponseTime: 1000
   - name: DIC
     url: $DIC
@@ -34,6 +43,10 @@ sites:
     maxResponseTime: 1000
   - name: FSM
     url: $FSM
+    maxResponseTime: 1000
+  - name: GGPT
+    url: $GGPT
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/ggpt.ico
     maxResponseTime: 1000
   - name: GPW
     url: $GPW
@@ -46,35 +59,42 @@ sites:
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
+  - name: HD4FANS
+    url: $HD4FANS
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/hd4fans.ico
+    maxResponseTime: 1000
+  - name: HDATMOS
+    url: $HDATMOS
+    maxResponseTime: 1000
+  - name: HDCity
+    url: $HDCITY
+    maxResponseTime: 1000
   - name: HDHome
     url: $HDHOME
     maxResponseTime: 1000
     expectedStatusCodes:
       - 403
-  - name: HDCity
-    url: $HDCITY
-    maxResponseTime: 1000
-  - name: HDATMOS
-    url: $HDATMOS
-    maxResponseTime: 1000
   - name: HDFans
     url: $HDFANS
-    maxResponseTime: 1000
-  - name: HDPT
-    url: $HDPT
     maxResponseTime: 1000
   - name: HDSky
     url: $HDSKY
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/hdsky.ico
     maxResponseTime: 1000
+  - name: HDKylin-麒麟
+    url: $HDKYLIN
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/kylin.ico
+    maxResponseTime: 1000
+  - name: HDPOST
+    url: $HDPOST
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/hdpost.ico
+    maxResponseTime: 1000
   - name: M-Team
     url: $MTEAM
     maxResponseTime: 1000
-  - name: OpenCD
-    url: $OPENCD
-    maxResponseTime: 1000
-  - name: pttime
-    url: $PTTIME
+  - name: PT@KEEPFRDS
+    url: $KEEPFRDS
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/frds.ico
     maxResponseTime: 1000
   - name: PTChina
     url: $PTCHINA
@@ -82,17 +102,53 @@ sites:
   - name: PTer
     url: $PTER
     maxResponseTime: 1000
+  - name: pttime
+    url: $PTTIME
+    maxResponseTime: 1000
+    expectedStatusCodes:
+      - 403
+  - name: Rousi
+    url: $ROUSI
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/rousi.ico
+    maxResponseTime: 1000
   - name: SSD
     url: $SSD
+    maxResponseTime: 1000
+  - name: ToSky
+    url: $TOSKY
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/tosky.ico
+    maxResponseTime: 1000
+  - name: UltraHD
+    url: $ULTRAHD
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/ultrahd.ico
+    maxResponseTime: 1000
+  - name: U2
+    url: $U2
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/u2.ico
+    maxResponseTime: 1000
+  - name: UBits
+    url: $UBITS
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/ubits.ico
+    maxResponseTime: 1000
+  - name: wintersakura
+    url: $WINTERSAKURA
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/sakura.ico
     maxResponseTime: 1000
   - name: ZHUQUE
     url: $ZHUQUE
     maxResponseTime: 1000
-  - name: ZmPT
+  - name: ZmPT(织梦)
     url: $ZMPT
     maxResponseTime: 1000
-  - name: crabpt
+  - name: 蟹黄堡
     url: $CRABPT
+    maxResponseTime: 1000
+  - name: 明教
+    url: $HDPT
+    maxResponseTime: 1000
+  - name: 杏坛
+    url: $XINGTAN
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/xingtan.ico
     maxResponseTime: 1000
 
 status-website:

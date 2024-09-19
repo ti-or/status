@@ -24,15 +24,25 @@ sites:
     url: $BTSCHOOL
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/bts.ico
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 403
   - name: CarPT
     url: $CARPT
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/carpt.ico
     maxResponseTime: 1000
   - name: CHDBits
     url: $CHDBITS
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/chdbits.ico
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 403
+  - name: CrabPT
+    url: $CRABPT
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/crabpt.ico
+    maxResponseTime: 1000
   - name: CyanBug
     url: $CYANBUG
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/cyanbug.ico
     maxResponseTime: 1000
   - name: DIC
     url: $DIC
@@ -40,6 +50,7 @@ sites:
     maxResponseTime: 1000
   - name: DiscFan
     url: $DISCFAN
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/discfan.ico
     maxResponseTime: 1000
   - name: FSM
     url: $FSM
@@ -50,6 +61,7 @@ sites:
     maxResponseTime: 1000
   - name: GPW
     url: $GPW
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/gpw.ico
     maxResponseTime: 1000
   - name: HaresClub
     url: $HARESCLUB
@@ -77,13 +89,13 @@ sites:
   - name: HDFans
     url: $HDFANS
     maxResponseTime: 1000
+  - name: HDKylin
+    url: $HDKYLIN
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/kylin.ico
+    maxResponseTime: 1000
   - name: HDSky
     url: $HDSKY
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/hdsky.ico
-    maxResponseTime: 1000
-  - name: HDKylin-麒麟
-    url: $HDKYLIN
-    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/kylin.ico
     maxResponseTime: 1000
   - name: HDPOST
     url: $HDPOST
@@ -130,25 +142,23 @@ sites:
     url: $UBITS
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/ubits.ico
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 403
   - name: wintersakura
     url: $WINTERSAKURA
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/sakura.ico
     maxResponseTime: 1000
-  - name: ZHUQUE
-    url: $ZHUQUE
-    maxResponseTime: 1000
-  - name: ZmPT(织梦)
-    url: $ZMPT
-    maxResponseTime: 1000
-  - name: 蟹黄堡
-    url: $CRABPT
-    maxResponseTime: 1000
-  - name: 明教
-    url: $HDPT
-    maxResponseTime: 1000
-  - name: 杏坛
+  - name: xingtan
     url: $XINGTAN
     icon: https://raw.githubusercontent.com/ti-or/status/master/assets/xingtan.ico
+    maxResponseTime: 1000
+  - name: ZHUQUE
+    url: $ZHUQUE
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/zhuque.png
+    maxResponseTime: 1000
+  - name: ZmPT
+    url: $ZMPT
+    icon: https://raw.githubusercontent.com/ti-or/status/master/assets/zmpt.ico
     maxResponseTime: 1000
 
 status-website:

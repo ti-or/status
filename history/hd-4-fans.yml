@@ -1,7 +1,7 @@
 url: $HD4FANS
-status: degraded
+status: down
 code: 502
-responseTime: 4357
-lastUpdated: 2024-09-20T15:51:58.445Z
+responseTime: 252
+lastUpdated: 2024-09-20T16:40:58.783Z
 startTime: 2024-09-19T09:40:57.579Z
 generator: Upptime <https://github.com/upptime/upptime>

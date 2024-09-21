@@ -1,7 +1,7 @@
 url: $PTER
-status: down
-code: 403
-responseTime: 86
-lastUpdated: 2024-09-21T09:59:21.138Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2024-09-21T13:41:35.351Z
 startTime: 2024-09-17T16:43:35.184Z
 generator: Upptime <https://github.com/upptime/upptime>

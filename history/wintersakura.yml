@@ -1,7 +1,7 @@
 url: $WINTERSAKURA
-status: degraded
+status: up
 code: 200
-responseTime: 8437
-lastUpdated: 2024-09-21T06:51:26.478Z
+responseTime: 542
+lastUpdated: 2024-09-21T07:01:12.408Z
 startTime: 2024-09-19T09:44:16.944Z
 generator: Upptime <https://github.com/upptime/upptime>

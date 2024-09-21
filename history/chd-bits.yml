@@ -1,7 +1,7 @@
 url: $CHDBITS
-status: up
+status: degraded
 code: 403
-responseTime: 173
-lastUpdated: 2024-09-20T23:27:12.115Z
+responseTime: 6882
+lastUpdated: 2024-09-21T03:01:48.825Z
 startTime: 2024-09-19T09:40:47.835Z
 generator: Upptime <https://github.com/upptime/upptime>

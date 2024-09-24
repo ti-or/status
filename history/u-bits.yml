@@ -1,7 +1,7 @@
 url: $UBITS
-status: up
-code: 403
-responseTime: 67
-lastUpdated: 2024-09-23T23:29:50.315Z
+status: down
+code: 200
+responseTime: 631
+lastUpdated: 2024-09-24T02:56:40.716Z
 startTime: 2024-09-19T09:44:14.904Z
 generator: Upptime <https://github.com/upptime/upptime>

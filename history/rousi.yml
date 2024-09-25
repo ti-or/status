@@ -1,7 +1,7 @@
 url: $ROUSI
-status: degraded
-code: 500
-responseTime: 11539
-lastUpdated: 2024-09-25T17:34:04.424Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2024-09-25T17:43:44.891Z
 startTime: 2024-09-19T09:42:40.006Z
 generator: Upptime <https://github.com/upptime/upptime>

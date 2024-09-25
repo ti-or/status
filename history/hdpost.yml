@@ -1,7 +1,7 @@
 url: $HDPOST
-status: down
+status: degraded
 code: 503
-responseTime: 467
-lastUpdated: 2024-09-25T13:17:46.174Z
+responseTime: 1880
+lastUpdated: 2024-09-25T15:55:01.115Z
 startTime: 2024-09-19T09:41:04.493Z
 generator: Upptime <https://github.com/upptime/upptime>

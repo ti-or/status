@@ -1,7 +1,7 @@
 url: $ULTRAHD
-status: up
+status: degraded
 code: 200
-responseTime: 398
-lastUpdated: 2024-09-23T23:29:49.102Z
+responseTime: 3664
+lastUpdated: 2024-09-25T15:57:00.980Z
 startTime: 2024-09-19T09:44:13.204Z
 generator: Upptime <https://github.com/upptime/upptime>

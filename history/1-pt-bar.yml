@@ -1,7 +1,7 @@
 url: $N1PTBAR
-status: degraded
+status: down
 code: 403
-responseTime: 1128
-lastUpdated: 2024-09-28T14:40:05.176Z
+responseTime: 95
+lastUpdated: 2024-09-28T14:50:24.915Z
 startTime: 2024-09-16T12:32:30.840Z
 generator: Upptime <https://github.com/upptime/upptime>

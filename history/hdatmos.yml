@@ -1,7 +1,7 @@
 url: $HDATMOS
-status: degraded
+status: up
 code: 200
-responseTime: 1868
-lastUpdated: 2024-09-30T00:00:07.465Z
+responseTime: 553
+lastUpdated: 2024-09-30T03:02:34.407Z
 startTime: 2024-09-16T14:17:56.298Z
 generator: Upptime <https://github.com/upptime/upptime>

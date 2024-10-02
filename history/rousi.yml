@@ -1,7 +1,7 @@
 url: $ROUSI
-status: up
-code: 200
-responseTime: 123
-lastUpdated: 2024-10-01T21:30:38.948Z
+status: down
+code: 500
+responseTime: 325
+lastUpdated: 2024-10-02T20:36:11.276Z
 startTime: 2024-09-19T09:42:40.006Z
 generator: Upptime <https://github.com/upptime/upptime>

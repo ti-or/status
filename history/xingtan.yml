@@ -1,7 +1,7 @@
 url: $XINGTAN
-status: up
+status: degraded
 code: 200
-responseTime: 335
-lastUpdated: 2024-10-05T13:01:14.862Z
+responseTime: 21199
+lastUpdated: 2024-10-05T16:50:13.375Z
 startTime: 2024-09-19T10:13:47.942Z
 generator: Upptime <https://github.com/upptime/upptime>

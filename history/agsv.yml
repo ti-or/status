@@ -1,7 +1,7 @@
 url: $AGSV
-status: degraded
+status: down
 code: 403
-responseTime: 2453
-lastUpdated: 2024-10-08T18:27:27.734Z
+responseTime: 999
+lastUpdated: 2024-10-08T22:34:05.483Z
 startTime: 2024-09-19T09:40:40.476Z
 generator: Upptime <https://github.com/upptime/upptime>

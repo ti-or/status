@@ -188,7 +188,7 @@ i18n:
   activeIncidents: 活动事件
   allSystemsOperational: 所有系统都可以正常运行
   incidentReport: "事件 #$NUMBER 报告 →"
-  activeIncidentSummary: 在$DATE 打开，有 $POSTS 个帖子
+  activeIncidentSummary: 在 $DATE 报告
   incidentTitle: 事件NUMBER 的详细信息
   incidentDetails: 事件详细信息
   incidentFixed: 已修复
@@ -197,12 +197,12 @@ i18n:
   incidentClosedAt: 结束于
   incidentSubscribe: 订阅更新
   incidentViewOnGitHub: 在 GitHub 上查看
-  incidentCommentSummary: 由 $AUTHOR 在$DATE 发布
+  incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 过去的事件
-  pastIncidentsResolved: $POSTS 个问题在$MINUTES 分钟内得到解决
+  pastIncidentsResolved: 问题在 $MINUTES 分钟内得到解决
   liveStatus: 实时状态
-  overallUptime: "总体正常运行时间： $UPTIME"
+  overallUptime: "总体正常运行时间:$UPTIME"
   overallUptimeTitle: 总体正常运行时间
   averageResponseTime: "平均响应时间:$TIMEms"
   averageResponseTimeTitle: 平均响应时间
@@ -229,8 +229,8 @@ i18n:
   errorHome: 转到主页
   pastScheduledMaintenance: 过去的预定维护
   scheduledMaintenance: 定期维护
-  scheduledMaintenanceSummaryStarted: 从 $DATE 开始，持续$DURATION 分钟
-  scheduledMaintenanceSummaryStarts: 从 $DATE 开始，持续$DURATION 分钟
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始，持续 $DURATION 分钟
   startedAt: 开始在
   startsAt: 开始于
   duration: 持续时间
@@ -242,9 +242,9 @@ i18n:
   history: "历史"
   responseTime: "响应时间"
   uptime: "正常运行时间"
-  up: "🟩 正常运行"
-  degraded: "🟨 运行缓慢"
-  down: "🟥 停机"
+  up: "🟩"
+  degraded: "🟨"
+  down: "🟥"
   responseTimeGraphAlt: "响应时间图像"
   responseTimeDay: "24 小时响应时间"
   responseTimeWeek: "7 天正常运行时间"

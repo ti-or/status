@@ -1,7 +1,7 @@
 url: $GGPT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-11T05:49:10.165Z
+status: up
+code: 200
+responseTime: 709
+lastUpdated: 2024-10-11T05:58:51.457Z
 startTime: 2024-09-19T09:40:53.930Z
 generator: Upptime <https://github.com/upptime/upptime>

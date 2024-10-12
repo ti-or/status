@@ -1,7 +1,7 @@
 url: $HDKYLIN
-status: up
-code: 468
-responseTime: 304
-lastUpdated: 2024-10-12T07:50:00.988Z
+status: degraded
+code: 500
+responseTime: 5696
+lastUpdated: 2024-10-12T08:43:10.990Z
 startTime: 2024-09-19T09:41:03.210Z
 generator: Upptime <https://github.com/upptime/upptime>

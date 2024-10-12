@@ -1,7 +1,7 @@
 url: $HDFANS
-status: degraded
+status: up
 code: 200
-responseTime: 1471
-lastUpdated: 2024-10-12T16:00:08.478Z
+responseTime: 521
+lastUpdated: 2024-10-12T16:28:23.185Z
 startTime: 2024-09-16T14:18:03.571Z
 generator: Upptime <https://github.com/upptime/upptime>

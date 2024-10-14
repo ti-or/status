@@ -1,7 +1,7 @@
 url: $CRABPT
-status: down
-code: 500
-responseTime: 211
-lastUpdated: 2024-10-14T06:31:42.128Z
+status: up
+code: 200
+responseTime: 552
+lastUpdated: 2024-10-14T06:49:07.101Z
 startTime: 2024-09-19T10:10:27.032Z
 generator: Upptime <https://github.com/upptime/upptime>

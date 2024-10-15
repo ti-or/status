@@ -1,7 +1,7 @@
 url: $KEEPFRDS
-status: up
+status: degraded
 code: 200
-responseTime: 429
-lastUpdated: 2024-10-15T01:51:19.265Z
+responseTime: 7429
+lastUpdated: 2024-10-15T11:51:00.825Z
 startTime: 2024-09-19T09:41:05.839Z
 generator: Upptime <https://github.com/upptime/upptime>

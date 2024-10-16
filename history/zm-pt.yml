@@ -1,7 +1,7 @@
 url: $ZMPT
-status: degraded
+status: up
 code: 200
-responseTime: 2155
-lastUpdated: 2024-10-16T08:35:04.003Z
+responseTime: 538
+lastUpdated: 2024-10-16T08:49:46.724Z
 startTime: 2024-09-16T12:49:05.236Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $CARPT
-status: up
+status: degraded
 code: 200
-responseTime: 192
-lastUpdated: 2024-10-18T23:20:14.760Z
+responseTime: 3947
+lastUpdated: 2024-10-19T16:07:34.881Z
 startTime: 2024-09-16T12:32:34.383Z
 generator: Upptime <https://github.com/upptime/upptime>

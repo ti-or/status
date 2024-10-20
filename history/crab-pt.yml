@@ -1,7 +1,7 @@
 url: $CRABPT
-status: down
+status: degraded
 code: 502
-responseTime: 210
-lastUpdated: 2024-10-20T10:35:31.212Z
+responseTime: 13880
+lastUpdated: 2024-10-20T11:38:29.909Z
 startTime: 2024-09-19T10:10:27.032Z
 generator: Upptime <https://github.com/upptime/upptime>

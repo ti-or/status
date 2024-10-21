@@ -1,7 +1,7 @@
 url: $PTER
-status: degraded
+status: up
 code: 200
-responseTime: 1181
-lastUpdated: 2024-10-21T08:50:58.317Z
+responseTime: 730
+lastUpdated: 2024-10-21T09:09:11.514Z
 startTime: 2024-09-17T16:43:35.184Z
 generator: Upptime <https://github.com/upptime/upptime>

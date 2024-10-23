@@ -1,7 +1,7 @@
 url: $CYANBUG
-status: degraded
+status: up
 code: 200
-responseTime: 17488
-lastUpdated: 2024-10-23T11:48:12.535Z
+responseTime: 771
+lastUpdated: 2024-10-23T12:42:16.075Z
 startTime: 2024-09-17T16:41:47.901Z
 generator: Upptime <https://github.com/upptime/upptime>

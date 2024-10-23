@@ -1,7 +1,7 @@
 url: $AUDIENCES
-status: up
+status: degraded
 code: 403
-responseTime: 424
-lastUpdated: 2024-10-22T23:21:55.610Z
+responseTime: 1169
+lastUpdated: 2024-10-23T18:50:27.285Z
 startTime: 2024-09-16T12:32:33.612Z
 generator: Upptime <https://github.com/upptime/upptime>
